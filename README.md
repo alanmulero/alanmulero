@@ -9,15 +9,14 @@
 
 ## 🛠️ Tecnologias e Ferramentas  
 - PHP,
+- MySQL,Sql server  
+- HTML, CSS, Java, Wordpress, 
+- Git & GitHub  
 - ## 📚 Em aprendizado
 - Frameworks PHP (Laravel, Symfony)
 - Boas práticas de arquitetura de software
 - Integração com APIs
   
-- MySQL,Sql server  
-- HTML, CSS, Java, Wordpress, 
-- Git & GitHub  
-
 ---
 
 ## 📈 Objetivo  
