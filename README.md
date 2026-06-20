@@ -2,18 +2,17 @@
 # 👋 Olá, eu sou o Alan  
 
 🎯 Formado em **Análise e Desenvolvimento de Sistemas**  
-💻 Foco em **PHP** e desenvolvimento web  
+💻 Foco em **Java & Spring Boot** e desenvolvimento web  
 🚀 Apaixonado por aprender, evoluir e criar soluções que fazem a diferença  
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas  
-- PHP,
+- Java,Spring Boot
 - MySQL,Sql server  
 - HTML, CSS, Java, Wordpress, 
 - Git & GitHub  
 - ## 📚 Em aprendizado
-- Frameworks PHP (Laravel, Symfony)
 - Boas práticas de arquitetura de software
 - Integração com APIs
   
